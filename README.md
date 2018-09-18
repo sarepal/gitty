@@ -2,4 +2,4 @@
 
 This is a test file for class.
 
-Third edit.
+Link to <a href="">extra text</a>.
