@@ -2,6 +2,8 @@
 
 This is a file for class.
 
-Third edit.
+Link to <a href="https://sarepal.github.io/gitty/extra.txt">extra text</a>.
 
-Now I'm adding more text and am going to take away some, too.
+I'm adding a bit of text here for a pull request.
+
+I'm adding a bit more text here for a second pull request. 
